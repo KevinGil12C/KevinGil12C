@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kevingil12c" alt="kevingil12c" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://kevingil12c.github.io/Portafolio/](https://kevingil12c.github.io/Portafolio/)
+- 👨‍💻 All of my projects are available at https://kevingil12c.github.io/KevinGil12CPortafolio/
 
 - 💬 Ask me about **databases**
 
