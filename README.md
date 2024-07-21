@@ -5,9 +5,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kevingil12c" alt="kevingil12c" /></a> </p>
 
-- 👨‍💻 All of my projects are available at https://kevingil12c.github.io/KevinGil12CPortafolio/
+- 👨‍💻 All of my projects are available at https://kevingil12c.github.io/portafolio-kevscl/
 
 - 💬 Ask me about **databases**
+
+
+<a href="https://kevingil12c.github.io/portafolio-kevscl/" target="_blanck"><img src="./portafolio.png"/></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
