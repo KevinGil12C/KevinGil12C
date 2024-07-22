@@ -10,7 +10,7 @@
 - 💬 Ask me about **databases**
 
 
-[<a href="https://kevingil12c.github.io/portafolio-kevscl/" target="_blank"><img src="./portafolio.png"/></a>](https://kevingil12c.github.io/portafolio-kevscl/)
+[<a href="https://kevingil12c.github.io/portafolio-kevscl/" target="_blank"><img src="./portafolio_cap.png"/></a>](https://kevingil12c.github.io/portafolio-kevscl/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
