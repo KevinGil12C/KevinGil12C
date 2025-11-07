@@ -31,7 +31,7 @@ Concluí satisfactoriamente el curso de Frontend. Adquirí conocimientos prácti
 Concluí satisfactoriamente el curso de certificados de carrera de Google. Adquirí conocimientos en análisis, limpieza y recolección de datos.
 
 ### 🔒 Certificación de Ciberseguridad de Google
-**Fecha:** Mayo 2024 - Agosto 2024  
+**Fecha:** Mayo 2024 - Abril 2025  
 **Plataforma:** Coursera  
 Curso enfocado en fundamentos de ciberseguridad, protección de sistemas, redes y datos, y mitigación de riesgos de seguridad. **✅ Completado**
 
