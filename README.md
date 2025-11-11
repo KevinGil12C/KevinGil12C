@@ -20,6 +20,11 @@ Soy un desarrollador Full Stack con experiencia en creación de aplicaciones web
 
 ## 📚 Certificaciones y Educación
 
+### 🎓 Ingeniería en Computación (Pasante)
+**Fecha:** Agosto 2018 - Julio 2024  
+**Institución:**  Universidad Autónoma del Estado de México
+Concluí la Licenciatura de Ingeniería en Computación, donde adquirí conocimientos en Programación, Electrónica, Bases de datos, redes de computadoras.
+
 ### 🎓 Oracle Next Education F2 T6 Front-end
 **Fecha:** Febrero 2024 - Julio 2024  
 **Institución:** Alura Latam  
