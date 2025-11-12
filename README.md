@@ -15,7 +15,6 @@ Soy un desarrollador Full Stack con experiencia en creación de aplicaciones web
 **✨ Lo que me define:**
 - 💻 **Desarrollador Full Stack** con enfoque en Frontend
 - 🎨 **Creador de experiencias** de usuario excepcionales
-- 🤖 **Entusiasta de IA** y Machine Learning
 - 🚀 **Siempre aprendiendo** nuevas tecnologías
 
 ## 📚 Certificaciones y Educación
