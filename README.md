@@ -44,7 +44,7 @@ Curso enfocado en fundamentos de ciberseguridad, protección de sistemas, redes 
 ### 🎨 [Portafolio Personal](https://kevingil12c.github.io/portafolio-kevscl/)
 Mi portafolio personal donde muestro mis proyectos y habilidades como desarrollador.
 
-[![Portafolio](https://github.com/KevinGil12C/KevinGil12C/blob/main/portafolio_cap.png)](https://kevingil12c.github.io/portafolio-kevscl/)
+[![Portafolio](https://github.com/KevinGil12C/KevinGil12C/blob/main/portafolio_cap.png)]((https://kevscl-dev.vercel.app/))
 
 ### 🔥 [UltraTools - Suite Multimedia](https://github.com/KevinGil12C/compresor)
 Aplicación web completa para compresión y conversión de archivos multimedia con IA local (en desarrollo, pregunta por el avance).
