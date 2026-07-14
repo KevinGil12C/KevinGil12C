@@ -34,7 +34,7 @@ Soy Ingeniero en Computación egresado de la Universidad Autónoma del Estado de
 A lo largo de mi trayectoria me he especializado en la construcción de servicios críticos utilizando PHP y sus frameworks principales, el diseño de APIs RESTful, la integración segura de pasarelas de pago transaccionales y la protección de aplicaciones contra vectores de ataque automatizados. Mi mentalidad de ingeniería de producto combina las metodologías de desarrollo full stack avanzadas con una rigurosa atención a la continuidad del negocio.
 
 ### 🎯 Abierto A
-* Roles de Ingeniería Full Stack y Backend Senior
+* Roles de Ingeniería Full Stack y Backend Junior
 * Diseño de Arquitectura de Sistemas y Consultoría de Software
 * Optimización de Infraestructura de Servicios y Seguridad Web
 
