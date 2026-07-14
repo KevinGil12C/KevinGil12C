@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./hero.jpg" alt="Header Banner" />
+  <img src="./hero.jpg" width="450" height="auto" alt="Header Banner" />
 </div>
 
 <div align="center">
